@@ -1,11 +1,15 @@
 #header h2 {
-	color: #000000;
+	color: #069;
 	margin-left: 5px;
+}
+
+#main h3 {
+	color: #000000
 }
 
 #header a {
 	text-decoration: none;
-	color: #000000;
+	color: #069;
 }
 
 #menu {
@@ -26,16 +30,17 @@
 
 body {
 	background-color: #FFFFFF;
-	color: #222; /*#111;*/
+	color: #222;
+	/*#111;*/
 	font-family: arial;
 	padding: 0;
 	margin: 0;
 }
 
 /* "auto" makes the left and right margins center the wrapper */
-#wrap { 
-	width: 60%; 
-	margin: 0 auto; 
+#wrap {
+	width: 60%;
+	margin: 0 auto;
 }
 
 #article {
